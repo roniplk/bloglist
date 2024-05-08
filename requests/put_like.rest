@@ -1,0 +1,10 @@
+PUT http://localhost:3001/api/blogs/663a88100a56966b6670e608
+Content-Type: application/json
+
+{
+  "user": "663a87d80a56966b6670e601",
+  "likes": 1,
+  "author": "blogger",
+  "title": "A Blog",
+  "url": "https://google.com/"
+}
